@@ -1,0 +1,6 @@
+print(10>6)
+print(10>=10)
+print(10<0)
+print(10<=-10)
+print("hello"=="hello")
+print("hello"!=10)

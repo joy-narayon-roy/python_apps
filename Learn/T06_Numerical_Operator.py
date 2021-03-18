@@ -1,0 +1,8 @@
+print("The numeric operator's are :-\n + , - , * , / , % , ** , // \n")
+print("10+8=",10+8)
+print("10-8=",10-8)
+print("10*8=",10*8)
+print("10/8=",10/8)
+print("10//8=",10//8," (Floor of decimal number)")
+print("10%8=",10%8)
+print("10**8=",10**8," (10^8)")
